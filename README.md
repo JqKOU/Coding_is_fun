@@ -11,7 +11,7 @@ This collection contains several Python programs which are very interesting to s
 
 🔢 Priority Queue.ipynb provides a way to sort a list of numbers using priority queue
 
-⏰ Time Class.ipynb is a simulator of clock 
+⏰ Time Class.ipynb is a simulates time
 
 ☎️ Contacts Linked List.ipynb which allows us to manipulate contacts information
 
